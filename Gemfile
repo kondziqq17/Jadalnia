@@ -16,6 +16,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'simple_form', '~> 3.3', '>= 3.3.1'
 gem 'devise', '~> 4.2'
+gem 'rails_admin'
 
 
 gem 'jquery-rails'
